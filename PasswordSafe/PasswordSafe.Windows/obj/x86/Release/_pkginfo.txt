@@ -1,0 +1,1 @@
+c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\AppPackages\PasswordSafe.Windows_1.1.0.1_x86_Test\PasswordSafe.Windows_1.1.0.1_x86.appx

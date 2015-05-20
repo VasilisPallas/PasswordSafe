@@ -1,0 +1,12 @@
+[Files]
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\bin\ARM\Release\AppxManifest.xml" "AppxManifest.xml"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\bin\ARM\Release\PasswordSafe.Windows.exe" "PasswordSafe.Windows.exe"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.10\Redist\Retail\ARM\sqlite3.dll" "sqlite3.dll"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\bin\ARM\Release\PasswordSafe.Windows.xr.xml" "PasswordSafe.Windows.xr.xml"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\bin\ARM\Release\App.xbf" "App.xbf"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\bin\ARM\Release\MainPage.xbf" "MainPage.xbf"
+"c:\users\vasileios\documents\visual studio 2015\Projects\PasswordSafe\PasswordSafe\PasswordSafe.Windows\bin\ARM\Release\resources.pri" "resources.pri"
